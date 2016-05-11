@@ -1,0 +1,3 @@
+git commit -a -m "Adding pages"
+git push origin gh-pages
+http://onnbrian.github.io/locomotive/homepage.html
